@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+ffmpeg-python
+librosa
+torch
+transformers
+soundfile
